@@ -3,3 +3,4 @@ Git is free a software distributed under the GPL.
 Git has mutable index called stage.
 Git tracks changes of files.
 This is test add merge.
+Bug branch.
